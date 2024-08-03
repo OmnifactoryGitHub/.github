@@ -1,6 +1,6 @@
 # Welcome to Omnifactory
 
-![Omnifactory Logo]([https://link-to-your-logo-image.com/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.omnifactory.com%2F&psig=AOvVaw3svVBgGuvcBYiYI04sb8Fy&ust=1722789477228000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDu7oih2YcDFQAAAAAdAAAAABAE))
+![Omnifactory Logo](https://github.com/OmnifactoryGitHub/.github/blob/main/OFlogo.jpg?raw=true)
 
 ## About Us
 
