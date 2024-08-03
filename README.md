@@ -76,5 +76,5 @@ For more information about our projects and services, visit our [website](https:
 
 
 ![Facility Photo](https://github.com/OmnifactoryGitHub/.github/blob/main/facility.jpg?raw=true)
-![Project Photo]()
+![Project Photo](https://github.com/OmnifactoryGitHub/.github/blob/main/Omni-Factory-at-the-University-of-Nottingham.-Photography-by-Alex-Wilkinson-Media-web.xffa97fbd.jpg?raw=true)
 
