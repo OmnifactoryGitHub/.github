@@ -74,7 +74,7 @@ For more information about our projects and services, visit our [website](https:
 
 ---
 
-![Team Photo]()
-![Facility Photo]()
+
+![Facility Photo](https://github.com/OmnifactoryGitHub/.github/blob/main/facility.jpg?raw=true)
 ![Project Photo]()
 
